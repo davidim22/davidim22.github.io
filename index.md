@@ -13,8 +13,10 @@
   </p>
 </div>
 
-<center><img src="images/SkimLit_photo.png?raw=true"/><center>
-
+<p>
+  <center><img src="images/SkimLit_photo.png?raw=true"/><center>
+</p>
+  
 <hr>
 
 <h3> Categorizing 101 type of food with convolutional neural network : Food Vision 101 (10% data) </h3>
@@ -27,13 +29,17 @@
   <p>The purpose of this project is to use convolutional neural network to analyze 101 different types of food images. I will be following the <b><a href="https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf">Food-101 – Mining Discriminative Components with Random Forests</a></b> research paper to create the model. Moreover, I will be trying to beat their average accuracy of 50.76%.
   </p>
 </div>
-<center><img src="images/Food_Vision_101.png?raw=true"/><center>
 
+<p>    
+  <center><img src="images/Food_Vision_101.png?raw=true"/><center>
+</p>
+    
 <hr>
 
 <h3> Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling </h3>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p>    
+  <center><img src="images/Food_Vision_101.png?raw=true"/><center>
+</p>
 
 <hr>
