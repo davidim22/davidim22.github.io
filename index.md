@@ -36,7 +36,7 @@
 
 <h3> Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling </h3>
 
-<a href="https://colab.research.google.com/drive/1D5b-I2PiJ1-jLEntREniY6NYMErgYbJG?usp=sharing">
+<a href="https://github.com/davidim22/VR_Bowling">
   <img src="https://img.shields.io/badge/GitHub-View_on_Github-blue?logo=GitHub" alt="View on GitHub">
 </a>
 
