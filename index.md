@@ -10,7 +10,7 @@
   <p>The purpose of this project is to use natural language processor to categorize each sentence in the abstract. I will be following the <b><a href="https://arxiv.org/abs/1710.06071">PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts</a></b> research paper to create the model. Additionally, I will be training on 20k dataset instead of 200k because of technical limits.
   </p>
 </div>
-<br></br>
+
 <center><img src="images/SkimLit_photo.png?raw=true"/><center>
 
 ---
