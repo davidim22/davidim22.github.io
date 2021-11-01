@@ -12,7 +12,7 @@
 
 ---
 
-#### Categorizing 101 type of food with convolutional neural network : Food Vision 101 (10% data)
+### Categorizing 101 type of food with convolutional neural network : Food Vision 101 (10% data)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1D5b-I2PiJ1-jLEntREniY6NYMErgYbJG?usp=sharing)
 
@@ -22,7 +22,7 @@
 
 ---
 
-#### Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling
+### Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
