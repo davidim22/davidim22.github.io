@@ -1,8 +1,8 @@
-# Portfolio
+<h1> Portfolio </h1>
 
----
+<hr>
 
-### Identifying important sections in abstract using natural language process : SkimLit (10% data)
+<h3> Identifying important sections in abstract using natural language process : SkimLit (10% data) </h3>
 
 <a href="https://colab.research.google.com/drive/1jyDptup0WG8moOHrUzttQo1W82c7Mxv_?usp=sharing">
   <img src="https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18">
@@ -15,9 +15,9 @@
 
 <center><img src="images/SkimLit_photo.png?raw=true"/><center>
 
----
+<hr>
 
-### Categorizing 101 type of food with convolutional neural network : Food Vision 101 (10% data)
+<h3> Categorizing 101 type of food with convolutional neural network : Food Vision 101 (10% data) </h3>
 
 <a href="https://colab.research.google.com/drive/1D5b-I2PiJ1-jLEntREniY6NYMErgYbJG?usp=sharing">
   <img src="https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18">
@@ -29,11 +29,11 @@
 </div>
 <center><img src="images/Food_Vision_101.png?raw=true"/><center>
 
----
+<hr>
 
-### Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling
+<h3> Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling </h3>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+<hr>
