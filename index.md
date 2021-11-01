@@ -18,7 +18,7 @@
 
 <div style="text-align: justify">The purpose of this project is to use convolutional neural network to analyze 101 different types of food images. I will be following the [*Food-101 – Mining Discriminative Components with Random Forests*](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf) research paper to create the model. Moreover, I will be trying to beat their average accuracy of 50.76%.</dev>
 <br></br>
-<center><img src="images/SkimLit_photo.png?raw=true"/><center>
+<center><img src="images/Food_Vision_101.png?raw=true"/><center>
 
 ---
 
