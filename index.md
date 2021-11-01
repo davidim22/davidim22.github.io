@@ -46,6 +46,6 @@
   </p>
 </div>
 
-<center><img src="images/Food_Vision_101.png?raw=true"></center>
+<center><img src="images/VR_Bowling.gif?raw=true"></center>
 
 <hr>
