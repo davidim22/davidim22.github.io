@@ -2,9 +2,7 @@ title: Junyoung Im # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/example/">Resume</a> 
-  First description 
   I am pursuing bachelor's degree in Enviornment and Information Studies at Keio University.
-  Second description 
   My current interest is in machine learning and augmented reality.
   
 theme: jekyll-theme-minimal
