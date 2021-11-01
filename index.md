@@ -13,9 +13,7 @@
   </p>
 </div>
 
-<p>
-  <center><img src="images/SkimLit_photo.png?raw=true"/></center>
-</p>
+<center><img src="images/SkimLit_photo.png?raw=true"></center>
   
 <hr>
 
@@ -30,16 +28,12 @@
   </p>
 </div>
 
-<p>    
-  <center><img src="images/Food_Vision_101.png?raw=true"/></center>
-</p>
+<center><img src="images/Food_Vision_101.png?raw=true"></center>
     
 <hr>
 
 <h3> Creating virtual bowling center using Unity and Oculus Quest 2: VR Bowling </h3>
 
-<p>    
-  <center><img src="images/Food_Vision_101.png?raw=true"/></center>
-</p>
+<center><img src="images/Food_Vision_101.png?raw=true"></center>
 
 <hr>
